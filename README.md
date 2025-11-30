@@ -1,84 +1,73 @@
-<!-- HEADER -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=F7A8C9&center=true&vCenter=true&width=600&lines=Hello+I'm+Khadija+🌸;AI+%2F+Data+Enthusiast;Virtual+Assistant+%2F+Customer+Support;Always+Learning%2C+Always+Building+✨" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=500&size=28&duration=3000&pause=1000&color=9A77FF&center=true&vCenter=true&width=550&lines=Hi%2C+I'm+Khadijah+🌿;AI+%7C+Deep+Learning+%7C+Smart+Automation;Always+learning%2C+always+building+✨" alt="Typing SVG" />
 </p>
 
 ---
 
-## 🌷 About Me
-I’m **Khadija Tagui**, a curious builder wandering the bright edges of  
-**AI, Deep Learning, and Smart Automation** — crafting projects that blend  
-intelligence, clarity, and a dash of softness.
+## 🌷 About Me  
 
-Alongside my technical journey, I also work as a  
+Hi, I’m **Khadijah Tagui** — a curious builder exploring the calm but powerful world of  
+**AI, Deep Learning, and Smart Automation**.  
+I love crafting projects that blend intelligence, clarity, and a touch of softness.
+
+Alongside my technical path, I also work as a  
 **Virtual Assistant & Customer Support Officer**, where I sharpen my  
-communication, workflow organization, and problem-solving — all of which fuel  
-my transition toward a **full AI/Data career**.
+communication, workflow organization, and problem-solving skills —  
+all of which fuel my transition into a **full AI/Data career**.
 
 ---
 
 ## 🧠 My Current Toolbox  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,java,androidstudio,postman,git,github" />
-</p>
+
+<div align="center">
+
+<!-- Icons row -->
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,fastapi,sqlite,postgres,git,github,linux&theme=light" />
+
+</div>
 
 ---
 
-## 🛠️ Featured Projects  
-Here are the projects that shaped my path and reflect what I love building:
+## ✨ Featured Projects  
 
-### 🖋️ **Handwritten Character Recognition (Deep Learning)**  
-- Built and trained a CNN for handwritten character identification.  
-- Applied preprocessing, augmentation & evaluation to achieve strong accuracy.  
-- Focus: vision models, pattern recognition, model lifecycle.
+Here are some of the projects that shaped my journey:
 
----
+### 🖋️ **Handwritten Character Recognition (Deep Learning)**
+Built and trained a CNN model for recognizing handwritten characters,  
+including preprocessing, augmentation, and metrics evaluation.
 
-### 🤖 **LLM-powered RAG Chatbot**  
-- Built an intelligent Q&A chatbot using a **Retrieval-Augmented Generation pipeline**.  
-- Implemented document chunking + vector DB + LLM reasoning.  
-- Deployed with a clean Streamlit interface for private document querying.  
+### 🤖 **LLM-Powered RAG Chatbot**  
+Designed a retrieval-augmented pipeline using document chunking + vector search  
+to enable private document Q&A with a clean Streamlit interface.
 
----
+### 🧠 **Brain Tumor Segmentation — nnU-Net (BraTS Dataset)**  
+Performed preprocessing, training, and segmentation using a U-Net-based architecture.
 
-### 🧠 **Brain Tumor Segmentation with nnU-Net (BraTS Dataset)**  
-- Full workflow: preprocessing → training → deployment.  
-- Built a U-Net-family segmentation system to detect brain tumor regions.  
-- Explored medical imaging, advanced DL architectures, and evaluation metrics.
+### 🔧 **DRL Agent for Workflow Correction in n8n (PPO)**  
+Created a reinforcement learning agent capable of detecting and correcting  
+automation workflow errors — deployed with Streamlit.
 
 ---
 
-### 🔧 **DRL Agent for Workflow Correction in n8n (PPO-based)**  
-- Designed a Deep Reinforcement Learning agent to debug automation workflows.  
-- Implemented training & reward strategy using PPO.  
-- Deployed via Streamlit dashboard for interactive correction.
+## 🌼 Currently Exploring  
+- Neural architectures & model optimization  
+- RAG pipelines & AI assistants  
+- Deep reinforcement learning  
+- Smart automation using n8n + AI  
 
 ---
 
-## 🌿 Currently Exploring
-- 🔍 LLMs + retrieval systems  
-- 🤝 Generative AI for productivity  
-- 📊 Data analysis & workflow automation  
-- 🧩 Model deployment + real-world applications  
+## 📬 Connect With Me  
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Khadijah_Tagui-9A77FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-FFD1DC?style=for-the-badge&logo=sparkles&logoColor=white)]([#](https://my-portfolio-opal-three-56.vercel.app/))
+
+</div>
 
 ---
 
-## 🌸 Soft Skills That Power My Tech Work
-- Clear and empathetic communication  
-- Workflow organization & client support  
-- Problem-solving in dynamic environments  
-- Ability to translate complex ideas simply  
-
----
-
-## 📬 Let’s Connect  
-<p align="left">
-  <a href="https://www.linkedin.com/in/khadija-tagui/"><img src="https://img.shields.io/badge/LinkedIn-rose?style=for-the-badge&logo=linkedin&logoColor=white&color=F7A8C9" /></a>
-  <a href="mailto:khadija.tagui.50@gmail.com"><img src="https://img.shields.io/badge/Email-me-rose?style=for-the-badge&color=F7A8C9" /></a>
-</p>
-
----
-
-<p align="center">  
-✨ *Thanks for stopping by — may your code compile and your coffee stay warm.*  
+<p align="center">
+  <sub>✨ Thank you for stopping by — my GitHub is my little garden of learning and building.</sub>
 </p>
