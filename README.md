@@ -1,75 +1,60 @@
+<!-- Banner / Profile Picture -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?![IMG-20251201-WA0003](https://github.com/user-attachments/assets/286f9554-f728-43cc-a766-0acaea3ab595)
-font=Playfair+Display&weight=500&size=28&duration=3000&pause=1000&color=9A77FF&center=true&vCenter=true&width=550&lines=Hi%2C+I'm+Khadijah+🌿;AI+%7C+Deep+Learning+%7C+Smart+Automation;Always+learning%2C+always+building+✨" alt="Typing SVG" />
+  <img src="![IMG-20251201-WA0003](https://github.com/user-attachments/assets/243ec0de-24f0-4ed8-bfac-650678fcbd99)" alt="Khadija Tagui" width="140" style="border-radius: 50%;"/>
 </p>
 
-![Uploading IMG-20251201-WA0003.jpg…]()
-
-
-## 🌷 About Me  
-
-Hi, I’m **Khadijah Tagui** — a curious builder exploring the calm but powerful world of  
-**AI, Deep Learning, and Smart Automation**.  
-I love crafting projects that blend intelligence, clarity, and a touch of softness.
-
-Alongside my technical path, I also work as a  
-**Virtual Assistant & Customer Support Officer**, where I sharpen my  
-communication, workflow organization, and problem-solving skills —  
-all of which fuel my transition into a **full AI/Data career**.
+<h1 align="center">Hi, I'm <strong>Khadija Tagui</strong> 🌷</h1>
+<p align="center">AI • Deep Learning • Data • Automation</p>
 
 ---
 
-## 🧠 My Current Toolbox  
+### 🌼 About Me  
+I'm **Khadija Tagui**, a curious builder exploring the bright edges of  
+**AI, Deep Learning, and Smart Automation** — bringing clarity, intelligence, and a soft human touch into everything I create.
 
-<div align="center">
+Alongside my technical journey, I work as a  
+**Virtual Assistant & Customer Support Officer**, where I sharpen communication, workflow organization, and problem-solving — all fueling my transition toward a full **AI/Data Science** career.
 
-<!-- Icons row -->
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,fastapi,sqlite,postgres,git,github,linux&theme=light" />
-
-</div>
-
----
-
-## ✨ Featured Projects  
-
-Here are some of the projects that shaped my journey:
-
-### 🖋️ **Handwritten Character Recognition (Deep Learning)**
-Built and trained a CNN model for recognizing handwritten characters,  
-including preprocessing, augmentation, and metrics evaluation.
-
-### 🤖 **LLM-Powered RAG Chatbot**  
-Designed a retrieval-augmented pipeline using document chunking + vector search  
-to enable private document Q&A with a clean Streamlit interface.
-
-### 🧠 **Brain Tumor Segmentation — nnU-Net (BraTS Dataset)**  
-Performed preprocessing, training, and segmentation using a U-Net-based architecture.
-
-### 🔧 **DRL Agent for Workflow Correction in n8n (PPO)**  
-Created a reinforcement learning agent capable of detecting and correcting  
-automation workflow errors — deployed with Streamlit.
+### 🔗 My Portfolio  
+👉 **https://khadijah-11.github.io/portfolio/**  
 
 ---
 
-## 🌼 Currently Exploring  
-- Neural architectures & model optimization  
-- RAG pipelines & AI assistants  
-- Deep reinforcement learning  
-- Smart automation using n8n + AI  
-
----
-
-## 📬 Connect With Me  
-
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Khadijah_Tagui-9A77FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-FFD1DC?style=for-the-badge&logo=sparkles&logoColor=white)]([#](https://my-portfolio-opal-three-56.vercel.app/))
-
-</div>
-
----
-
-<p align="center">
-  <sub>✨ Thank you for stopping by — my GitHub is my little garden of learning and building.</sub>
+### 🧠 My Current Toolbox  
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="48" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="48" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="48" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="48" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="48" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="48" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/streamlit/streamlit-original.svg" width="48" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="48" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="48" />
 </p>
+
+---
+
+### 🚀 Featured Projects  
+Here are some of the things I’ve been building:
+
+#### ✨ **Handwritten Character Recognition (Deep Learning)**  
+CNN-based system for classifying handwritten characters with high accuracy.
+
+#### 🤖 **LLM-powered RAG Chatbot**  
+A Retrieval-Augmented Generation system combining document chunking, embeddings, and vector search — deployed with a Streamlit interface.
+
+#### 🧠 **Brain Tumor Segmentation with nnU-Net (BraTS 2021)**  
+Complete preprocessing + training pipeline for medical image segmentation.
+
+#### 🔧 **DRL Agent for Workflow Correction in n8n (PPO)**  
+A reinforcement-learning agent that autonomously debugs automation workflows.
+
+---
+
+### 💬 Let’s Connect  
+- 📧 **Email:** *taguik71@gmail.com*  
+- 💼 **LinkedIn:** *https://www.linkedin.com/in/khadija-tagui/*  
+
+Thanks for stopping by! 🌿  
