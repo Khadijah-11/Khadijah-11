@@ -1,8 +1,10 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=500&size=28&duration=3000&pause=1000&color=9A77FF&center=true&vCenter=true&width=550&lines=Hi%2C+I'm+Khadijah+🌿;AI+%7C+Deep+Learning+%7C+Smart+Automation;Always+learning%2C+always+building+✨" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?![IMG-20251201-WA0003](https://github.com/user-attachments/assets/286f9554-f728-43cc-a766-0acaea3ab595)
+font=Playfair+Display&weight=500&size=28&duration=3000&pause=1000&color=9A77FF&center=true&vCenter=true&width=550&lines=Hi%2C+I'm+Khadijah+🌿;AI+%7C+Deep+Learning+%7C+Smart+Automation;Always+learning%2C+always+building+✨" alt="Typing SVG" />
 </p>
 
----
+![Uploading IMG-20251201-WA0003.jpg…]()
+
 
 ## 🌷 About Me  
 
