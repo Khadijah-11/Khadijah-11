@@ -16,7 +16,7 @@ Alongside my technical journey, I work as a
 **Virtual Assistant & Customer Support Officer**, where I sharpen communication, workflow organization, and problem-solving — all fueling my transition toward a full **AI/Data Science** career.
 
 ### 🔗 My Portfolio  
-👉 **https://khadijah-11.github.io/portfolio/**  
+👉 **https://my-portfolio-opal-three-56.vercel.app/**  
 
 ---
 
@@ -70,7 +70,7 @@ A reinforcement-learning agent that autonomously debugs automation workflows.
     <img src="https://img.shields.io/badge/Email-FDEBF7?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
-  <a href="https://khadijatagui.github.io" target="_blank">
+  <a href="https://my-portfolio-opal-three-56.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FAB8D9?style=for-the-badge&logo=sparkles&logoColor=white" />
   </a>
 </p>
