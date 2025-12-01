@@ -53,8 +53,27 @@ A reinforcement-learning agent that autonomously debugs automation workflows.
 
 ---
 
-### 💬 Let’s Connect  
-- 📧 **Email:** *taguik71@gmail.com*  
-- 💼 **LinkedIn:** *https://www.linkedin.com/in/khadija-tagui/*  
+## 🌸 Let's Connect
+
+<p align="center">
+  <em>“The future belongs to those who create, learn, and stay curious.”</em>  
+  <br>
+  <em>Let’s build beautiful things together 💗</em>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/khadija-tagui/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-F7CFE3?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="mailto:taguik71@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-FDEBF7?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://khadijatagui.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FAB8D9?style=for-the-badge&logo=sparkles&logoColor=white" />
+  </a>
+</p>
+
 
 Thanks for stopping by! 🌿  
