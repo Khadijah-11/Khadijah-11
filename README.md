@@ -1,6 +1,6 @@
 <!-- Banner / Profile Picture -->
 <p align="center">
-  <img src="![IMG-20251201-WA0003](https://github.com/user-attachments/assets/243ec0de-24f0-4ed8-bfac-650678fcbd99)" alt="Khadija Tagui" width="140" style="border-radius: 50%;"/>
+  <img src="https://github.com/user-attachments/assets/243ec0de-24f0-4ed8-bfac-650678fcbd99" alt="Khadija Tagui" width="140" style="border-radius: 50%;"/>
 </p>
 
 <h1 align="center">Hi, I'm <strong>Khadija Tagui</strong> 🌷</h1>
